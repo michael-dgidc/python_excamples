@@ -1,0 +1,10 @@
+[project]
+name = "python-learning-examples"
+version = "0.1.0"
+description = "Beginner Python examples for data types, data structures, functions, and control flow."
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 88
+target-version = "py310"
+
