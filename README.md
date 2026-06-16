@@ -7,7 +7,7 @@ A beginner-friendly Python repo for learning the core building blocks:
 - Functions
 - Control flow
 
-The examples are small, readable, and runnable from the terminal.
+These examples are small, readable, and runnable from the terminal.
 
 ## Project Layout
 
